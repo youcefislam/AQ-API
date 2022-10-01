@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "air_quality_api",
+    "password": "5cd9b2b0-4091-11ed-b878-0242ac120002",
+    "database": "aqa",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
